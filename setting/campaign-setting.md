@@ -32,12 +32,32 @@ Ingredients are not the only thing you can gather from slain monsters. From skin
 
 \page
 
-## Background
-### 1. How is the Peace Maintained?
-### 2. How has Magic Influenced this Setting?
-### 3. How has Technology Influenced this Setting?
-### 4. How is Religion Handled?
-### 5. How are Monsters so Prevalent?
+## The World
+A series of worldbuilding questions, answered.
+
+### How is the Peace Maintained?
+Initially, different races developed in different lands. Over time, civilisations began to interact and trade - humans in particular colonised all over the continent, catalysing the mixing of cultures.
+
+In these modern times, countries are still partially headed by their original peoples, but there is an overarching world government formed of representatives from all over the globe, and headed by the elves. Most countries follow some kind of pyramidal system where the land is divided into counties ruled by councils, with each city or township within having a governor (elected or otherwise).
+
+### How has Magic Influenced this Setting?
+Magic is a force that infuses and nourishes this world. Its inhabitants can be highly magical to the point of needing magic like needing oxygen, while others barely interact with it.
+
+All people have the ability to use magic, as all creatures have within them a source of magic. Many natually magical creatures also exist - it is as much a force of nature that shapes their evolution as the climate is. The greatest natural source of magic on the planet is dungeons. These self-sustaining ecosystems are a crucial element of the world, and great care must be taken to conserve them.
+
+Note that these natural dungeons are different from the megadungeons that have been discovered at various points in time throughout the land - these have clear influence from civilisation, though their origins remain a mystery to most.
+
+The elves are a race that have a deep affinity for magic - they are able to channel its power to great effect and do not suffer the side effects (mana-sickness) as quickly as other races. As such, their knowledge of magic is more advanced than most, and they have appointed themselves as wardens over magic itself. They see it as their duty to protect people from magic... and vice versa.
+
+### How has Technology Influenced this Setting?
+### How is Religion Handled?
+There are a myriad of pantheons that are worshipped throughout the world. The world government has no official stance on religion, so there is no default. Some civilisations are more autocratic in nature than others, and these might hold more stringent control over the population's belief systems.
+
+Religion and magic are interlinked only through cultural means - for instance, followers of a nature god may naturally focus on magic that relates to this domain.
+
+### How are Monsters so Prevalent?
+
+
 ### 6. Who are Important Figures in Current History?
 ### 7. Who are Important Figures in Prior History?
 ### 8. How do Civilizations Manage their Resources?
