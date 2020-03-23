@@ -1,3 +1,9 @@
+<style>
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
+</style>
 # Dungeon Meshi
 A wholesome homebrewed campaign setting based on the manga by Ryōko Kui.
 Explore the myth and mystery of the phenomenon we know as dungeons, unravel the mechanics of magic, and forge bonds that can only be forged between people who have seen hell and decided to use the flames to cook a meal together.
@@ -22,9 +28,6 @@ Execution is based on your INT modifier, as it is based on knowing how to cook a
 Finally, presentation – this is based solely on player imagination, but is just as important as a die roll. Depending on how a dish is presented, it may have effects on appetite and morale which will translate into real consequences.
 It is not normal to eat monsters after all (imagine eating toad or scorpion in real life… I have eaten both but the point stands…) and your characters may find the concept hard to, erm, swallow.
 
-<div style='margin-top:140px'></div>
-
-
 ### Crafting
 Ingredients are not the only thing you can gather from slain monsters. From skin to bone, many monster parts can be used to create basic items, either for use or trade. Mechanics will be discussed on a case-by-case basis – for instance, crafting leather to make boots will require leatherworker’s tools, skill checks, and time. Certain parts and various herbs can also be used for medicinal purposes, and miscellaneous items like a poison sac could find use in battle.
 
@@ -45,11 +48,12 @@ All people have the ability to use magic, as all creatures have within them a so
 
 The greatest natural source of magic on the planet is dungeons. These self-sustaining ecosystems are a crucial element of the world, and great care must be taken to conserve them. Note that these natural dungeons are different from the megadungeons that have been discovered throughout the land - these have clear influence from civilisation, though their origins remain a mystery to most. Scholars believe they were created by ancient peoples, lost to time.
 
+The elves are a race that have a deep affinity for magic - they are able to channel its power to great effect and do not suffer the side effects (mana-sickness) as quickly as other races. As such, their knowledge of magic is more advanced than most, and they have appointed themselves as wardens over magic itself. They see it as their duty to protect people from magic... and vice versa.
+
 <div class='pageNumber'>1</div>
 
 \page
 
-The elves are a race that have a deep affinity for magic - they are able to channel its power to great effect and do not suffer the side effects (mana-sickness) as quickly as other races. As such, their knowledge of magic is more advanced than most, and they have appointed themselves as wardens over magic itself. They see it as their duty to protect people from magic... and vice versa.
 
 ### How has Technology Influenced this Setting?
 Technology influences the world in similar ways as in our own history. An argument can be made that the development of technologies has stagnated to some degree due to the influence of magic. Yet, some civilisations have found ways to advance technology through magic itself. In this modern era, dwarves and gnomes have been able to harness magic to power more complex machinery than ever before. This has put them at odds with the elves, who consider magic a resource that should be managed with care.
@@ -68,11 +72,12 @@ The current president of the world council, Archmage Canevera ("archmage" being 
 A particularly important sector of the world council is the Department of Mana Management. They control a military group known colloqially as the Canaries - a group of soldiers whose purpose is to monitor the development of megadungeons and seal or destroy them if they perceive them to be enough of a threat. This is not a popular practice because the presence of a megadungeon is a huge boost to the local economy.
 
 The Island, the small and out-of-the-way nation on which the titular dungeon is found, is ruled over by a human, Governor Iver.
-<div style='margin-top:140px'></div>
 
 
 ### What are important events in Prior History?
 Fifteen or so years ago, a known megadungeon crumbled and the nearby village of Utaya was destroyed in the following chaos. There were significant casualties in the village, including elven soldiers who came in to help, with the fallen turning into monsters themselves and eating the living. The elves have taken measures to prevent such an event from occurring again, by exacting a greater measure of control over megadungeons wherever they are found.
+<div style='margin-top:140px'></div>
+
 
 ## Known Races
 ### Dragonborn
@@ -84,12 +89,12 @@ Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the
 ### Elves
 Elves love nature and magic, art and music, and the beautiful things of the world. They prefer trust in diplomacy and compromise to resolve differences before they escalate to violence - still, their natural magical affinity makes them a force to be reckoned with. Their longevity (up to 250 years) led them to treat many of the shorter-lived races like children who needed a higher power to guide them. These days this way of thinking has faded, but has left some level of animosity and rebellion behind. Elves have a deep reverence for the natural world, and their way of life has as little impact on nature as they can manage. Many elves live a tribal lifestyle, and while they are numerous, there are only a handful of elven cities in the world.
 
+### Gnomes
+Gnomes are inventors and scholars by nature, taking delight in new knowledge and experiences. They can be found all over the continent. Many gnomes are skilled engineers, alchemists, tinkers, and inventors. They’re willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large.
+
 <div class='pageNumber'>2</div>
 
 \page
-
-### Gnomes
-Gnomes are inventors and scholars by nature, taking delight in new knowledge and experiences. They can be found all over the continent. Many gnomes are skilled engineers, alchemists, tinkers, and inventors. They’re willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large.
 
 ### Halflings
 Often mistaken for human children, halflings are not to be underestimated. They have survived in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. However, they tend to be resourceful and smart, and will carve out a niche for themselves wherever they go. Community is important to halflings, and it is rare to find one travelling alone.
@@ -105,8 +110,6 @@ Some thieves’ guilds use kenku as lookouts and messengers. The kenku dwell in 
 ### Kobolds
 Furred humanoids with faces resembling that of canines, kobolds tend to live in small, roving communities. They value social structure, and desire to always be part of a group.
 
-<div style='margin-top:140px'></div>
-
 ### Oni
 Oni is an umbrella term for a physically intimidating and warlike people that include hobgoblins, goliaths and tieflings. War is an important pillar of oni culture. Its glories are the dreams that inspire them. Its horrors don’t feature in their nightmares. Cowardice is more terrible to oni than dying. Aside from this violent outlook, oni are known to enjoy feasting and drinking to a great extent.
 
@@ -121,10 +124,6 @@ However, not all tabaxi are satisfied with such a life. The Cat Lord, the divine
 ### Tritons
 Long-established guardians of the deep ocean floor, in recent years the tritons have become increasingly active in the world above. Little is known of them, and they are uncommonly seen above the waves. Those who do exist on land are often explorers or scholars, reporting back to the deep. Tritons care deeply for the natural world, and see themselves as its wardens.
 
-<div class='pageNumber'>3</div>
-
-\page
-
 ## Locations
 Notable locations on Kanterra.
 
@@ -136,6 +135,10 @@ A large continent that makes up the vast majority of landmass on Kanterra. Compr
 
 ### Tian Xia
 The eastern archipelagos. In a state of near-constant civil war, its inhabitants include humans, kobolds, oni and tabaxi.
+
+<div class='pageNumber'>3</div>
+
+\page
 
 ## The Party
 You are a group of adventurers who recently returned, under unfortunate circumstances, from an expedition into the dungeon. Though you had been well prepared and are by no means inexperienced, you had also fallen to misfortune, losing valuable time and supplies. Hungry and fatigued, you then stumbled into an encounter with a red dragon.
