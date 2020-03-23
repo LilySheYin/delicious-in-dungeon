@@ -6,7 +6,7 @@
 </style>
 # Dungeon Meshi
 A wholesome homebrewed campaign setting based on the manga by Ryōko Kui.
-Explore the myth and mystery of the phenomenon we know as dungeons, unravel the mechanics of magic, and forge bonds that can only be forged between people who have seen hell and decided to use the flames to cook a meal together.
+Explore the myth and mystery of the phenomenon we know as dungeons, unravel the mechanics of magic, and forge bonds that can only exist between people who have seen hell and used the flames to cook a meal together.
 
 ## About the Game
 Dungeon Meshi is based on a manga, and translates to “Delicious in Dungeon”… DinD.
@@ -30,6 +30,8 @@ It is not normal to eat monsters after all (imagine eating toad or scorpion in r
 
 ### Crafting
 Ingredients are not the only thing you can gather from slain monsters. From skin to bone, many monster parts can be used to create basic items, either for use or trade. Mechanics will be discussed on a case-by-case basis – for instance, crafting leather to make boots will require leatherworker’s tools, skill checks, and time. Certain parts and various herbs can also be used for medicinal purposes, and miscellaneous items like a poison sac could find use in battle.
+<div style='margin-top:140px'></div>
+
 
 ## The World
 A series of worldbuilding questions, answered.
@@ -121,24 +123,33 @@ Most tabaxi remain in their distant homeland, content to dwell in small, tight c
 
 However, not all tabaxi are satisfied with such a life. The Cat Lord, the divine figure responsible for the creation of the tabaxi, gifts each of his children with one specific feline trait. Those tabaxi gifted with curiosity are compelled to wander far and wide. They seek out stories, artifacts, and lore. Those who survive this period of wanderlust return home in their elder years to share news of the outside world. In this manner, the tabaxi remain isolated but never ignorant of the world beyond their home.
 
+### Tortles
+Tortles are a small population who hail from beyond the western shores. They have colonised the numerous small islands that speckle the ocean there. What many tortles consider a simple life, others might call a life of adventure. Tortles are born near sandy coastlines, but as soon as they’re able to walk on two legs, they become nomad survivalists eager to explore the wilderness, experience its many wonders, put their skills to the test, and make new acquaintances.
+
 ### Tritons
 Long-established guardians of the deep ocean floor, in recent years the tritons have become increasingly active in the world above. Little is known of them, and they are uncommonly seen above the waves. Those who do exist on land are often explorers or scholars, reporting back to the deep. Tritons care deeply for the natural world, and see themselves as its wardens.
+
+<div class='pageNumber'>3</div>
+
+\page
 
 ## Locations
 Notable locations on Kanterra.
 
+### The Dungeon
+A megadungeon discovered on The Island some five years ago. Its architecture seems to take influence from many cultures, but it is difficult to pin down the origin. Dungeons of this kind have always been of immense interest to archaeologists and historians.
+
+As the riches of the upper levels were plundered, the delver population began to level out. It is currently seeing something of a resurgence however - and some experienced delvers have noted that the monsters that lurk in the depths seem to be getting more dangerous nowadays.
+
 ### The Island
-An island located south of the main continent. It was a mostly coastal economy until the discovery of the Dungeon, which has led to a population boom and the growth of the adventuring industry.
+An island located south of the main continent. It was a mostly coastal economy until the discovery of the Dungeon, which has led to a population surge and the growth of the adventuring industry. Now the village flourishes as a delver town, attracting scholars, mages and mercenaries alike. Guilds formed, professional resurrectionists
+set up shop, and tourism boomed. Many academy students from the mainland choose to begin their professional careers here, knowing that the risk can be well worth the reward.
 
 ### The Mainland
 A large continent that makes up the vast majority of landmass on Kanterra. Comprised of multiple countries under the control of various governments, most notably that of elves, dwarves, and humans.
 
 ### Tian Xia
 The eastern archipelagos. In a state of near-constant civil war, its inhabitants include humans, kobolds, oni and tabaxi.
-
-<div class='pageNumber'>3</div>
-
-\page
 
 ## The Party
 You are a group of adventurers who recently returned, under unfortunate circumstances, from an expedition into the dungeon. Though you had been well prepared and are by no means inexperienced, you had also fallen to misfortune, losing valuable time and supplies. Hungry and fatigued, you then stumbled into an encounter with a red dragon.
